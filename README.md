@@ -1,2 +1,2 @@
 # gameOfLive
-Desavio de criação do Jogo Da Vida
+Desafio de criação do Jogo Da Vida
